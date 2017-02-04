@@ -175,6 +175,7 @@ harvestfestival.meal.sat=Fills
 harvestfestival.meal.exhaust=Exhausts
 harvestfestival.meal.fry.stir=Stir Fry
 harvestfestival.meal.rice.fried=Fried Rice
+harvestfestival.meal.rice.fried.description=Treat yourself to a Happy New Year any day with a fluffy bowl of white rice, tossed with oil and seasoned with an egg and vegetables.
 harvestfestival.meal.pancake.savoury=Savoury Pancake
 harvestfestival.meal.pancake.savoury.description=Crisp and Fluffy and containing flavours which aren’t just for breakfast, these savoury pancakes go great on their own or with your favourite scallion.
 harvestfestival.meal.fries.french=French Fries
@@ -276,10 +277,15 @@ harvestfestival.meal.fish.grilled.description=Grilling opens up new vistas of ta
 harvestfestival.meal.eggplant.happy=Happy Eggplant
 harvestfestival.meal.eggplant.happy.description=Crescent cut stir fried eggplant brings a smile to most people’s faces, and it even smiles back.
 harvestfestival.meal.burnt.counter=Failed Handmade Dish
+harvestfestival.meal.burnt.counter=Failed Handmade Dish.description=Oh dear, that didn't come out right. Its overdone, smells like burnt cabbage. That... yeah, don't feed that to anyone.
 harvestfestival.meal.burnt.pot=Failed Pot Dish
+harvestfestival.meal.burnt.pot=Failed Pot Dish.description=Oh dear, that didn't come out right. Its overdone, smells like burnt oil. That... yeah, don't feed that to anyone.
 harvestfestival.meal.burnt.frying.pan=Failed Frying Pan Meal
+harvestfestival.meal.burnt.frying.pan=Failed Frying Pan Meal.description=Oh dear, that didn't come out right. Its overdone, smells like burnt socks. That... yeah, don't feed that to anyone.
 harvestfestival.meal.burnt.mixer=Failed Mixer Dish
+harvestfestival.meal.burnt.mixer=Failed Mixer Dish.description=Oh dear, that didn't come out right. Its flat, smells like yeast. That... yeah, don't feed that to anyone.
 harvestfestival.meal.burnt.oven=Failed Oven Dish
+harvestfestival.meal.burnt.oven=Failed Oven Dish.description=Oh dear, that didn't come out right. Its overdone, smells like charcoal. That... yeah, don't feed that to anyone.
 #0.6+ Meals
 harvestfestival.meal.jam.apple=Apple Jam
 harvestfestival.meal.jam.grape=Grape Jam
@@ -299,6 +305,7 @@ harvestfestival.meal.latte.fruit=Fruit Latte
 harvestfestival.meal.sandwich.fruit=Fruit Sandwich
 harvestfestival.meal.bread.raisin=Raisin Bread
 harvestfestival.meal.bun.jam=Jam Bun
+harvestfestival.meal.bun.jam.description=A soft, buttery crust hides a sweet surprise of the chef's favorite jam. Comes in four sweet flavors, of apple, strawberry, grape and marmalade.
 harvestfestival.meal.cake=Cake
 harvestfestival.meal.ice.cream=Ice Cream
 harvestfestival.meal.rice.bamboo=Bamboo Rice
